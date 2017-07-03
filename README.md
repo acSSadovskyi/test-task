@@ -3,4 +3,4 @@ Just a short test task
 
 
 #TODO
-until the end ofa teh day
+until the end of the day
