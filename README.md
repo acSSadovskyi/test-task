@@ -17,9 +17,10 @@ After the shape has gone, it is placed to the cache. The size of the cache is li
 
 
 Technologies and libs used in development process:
-    - PIXI.js (for rendering everything that happens (except for what can be do with html));
-    - Webpack (sorry, but various optimization (like separated bundle for vendors libraries) is not done at present moment. Will be fixed at the neares time).
-    - gl-matrix (for decomposing polygons into triangles, etc.).
+
+    -   PIXI.js (for rendering everything that happens (except for what can be do with html));
+    -   Webpack (sorry, but various optimization (like separated bundle for vendors libraries) is not done at present moment. Will be fixed at the neares time).
+    -   gl-matrix (for decomposing polygons into triangles, etc.).
    
 
 Also, it's worth noting, that the JSDoc comments have been used more to improve Intellisense support in the Visual Studio Code (the same as the d.ts file), and therefore most likely do not conform to the documentation standards with JSDoc.
