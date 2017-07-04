@@ -23,7 +23,7 @@ Technologies and libs used in development process:
     -   gl-matrix (for decomposing polygons into triangles, etc.).
    
 
-Also, it's worth noting, that the JSDoc comments have been used more to improve Intellisense support in the Visual Studio Code (the same as the d.ts file), and therefore most likely do not conform to the documentation standards with JSDoc.
+Also, it's worth noting, that the JSDoc comments have been used more to improve IntelliSense support in the Visual Studio Code (the same as the d.ts file), and therefore most likely do not conform to the documentation standards with JSDoc.
 
 If you want to improve or refine application just simply clone this repository and made npm -install command in the command line
 
